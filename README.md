@@ -10,7 +10,7 @@ Hi,This simple Hangman game is implemented in Python and split into three files.
 
 3. **hangman_art.py**: Contains ASCII art for the Hangman game's logo and a list of ASCII art for the different stages of the hangman. The ASCII art is displayed as the player makes incorrect guesses.
 
-#How to play
+##How to play
 #Game Rules:
 You have 6 lives to guess the hidden word.
 The game will display the current state of the word, with underscores representing unknown letters.
